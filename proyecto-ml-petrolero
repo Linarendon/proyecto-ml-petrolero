@@ -1,1 +1,7 @@
+# Crear estructura de directorios
+!cd/ workspaces/proyecto-ml-petrolero && mkdir -p data/     # Datos crudos y procesados
+!cd/ workspaces/proyecto-ml-petrolero && mkdir -p notebooks/     # Jupyter notebooks exploratorios
+!cd/ workspaces/proyecto-ml-petrolero && mkdir -p src/      # Codigo fuente modularizado
+!cd/ workspaces/proyecto-ml-petrolero && mkdir -p models/   # Modelos entrenados
+!cd/ workspaces/proyecto-ml-petrolero && mkdir -p reports/  #visualizaciones e informes
 
